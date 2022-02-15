@@ -3,5 +3,5 @@ function backToMain() {
 }
 
 function cpr_page1(){
-    document.location.href='cprPage1.html'
+    document.location.href='cprStep1.html'
 }
