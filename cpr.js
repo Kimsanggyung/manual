@@ -21,3 +21,7 @@ function cpr_page4(){
 function cpr_page5(){
     document.location.href='cprStep5.html'
 }
+
+function cpr_page6(){
+    document.location.href='cprStep6.html'
+}
