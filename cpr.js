@@ -10,6 +10,6 @@ function cpr_page2(){
     document.location.href='cprStep2.html'
 }
 
-function cpr_page2(){
+function cpr_page3(){
     document.location.href='cprStep3.html'
 }
