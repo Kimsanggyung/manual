@@ -13,3 +13,7 @@ function cpr_page2(){
 function cpr_page3(){
     document.location.href='cprStep3.html'
 }
+
+function cpr_page4(){
+    document.location.href='cprStep4.html'
+}
