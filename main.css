@@ -1,3 +1,15 @@
 *{
     color: midnightblue;
 }
+
+body{ 
+    background-color: whitesmoke;
+    background-position: 600px 100px;
+    background-repeat: no-repeat;
+}
+
+.case{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
