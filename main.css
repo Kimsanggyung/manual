@@ -5,10 +5,12 @@ body{
 }
 
 .case{
+    
     display: flex;
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
+    color: mintcream;
 }
 
 .title{
@@ -24,4 +26,42 @@ h1{
 }
 h2{
     font-size: 19px;
+}
+
+.case > a {
+    width: 200px;
+    height: 100px;
+
+    border-radius: 150px;
+    border: 3px solid darkred;
+
+    box-shadow: 0px 0px 10px 0px darkred;
+
+    background-color: whitesmoke;
+    display: block;
+
+    margin: 30px;
+
+    background-size: cover;
+    background-position: center;
+
+    color: whitesmoke;
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+} 
+
+.case > a:hover{
+    background-color: midnightblue;
+}
+
+.case {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    flex-wrap: wrap;
+
+    width: 1500px;
+    margin:auto;
 }
